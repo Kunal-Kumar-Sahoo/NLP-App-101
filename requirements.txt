@@ -4,3 +4,5 @@ pandas
 transformers
 spacy
 spacy-streamlit
+torch
+tensorflow
