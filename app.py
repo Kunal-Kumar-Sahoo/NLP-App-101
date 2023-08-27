@@ -6,6 +6,9 @@ from transformers import pipeline
 import json
 import spacy
 import spacy_streamlit
+import os
+
+os.system('sh prequisite.sh')
 
 
 def draw_all(
