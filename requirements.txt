@@ -1,0 +1,6 @@
+streamlit
+stqdm
+pandas
+transformers
+spacy
+spacy-streamlit
